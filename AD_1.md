@@ -26,3 +26,4 @@ No es lo único. Hay ocasiones en las que al desplazarse desaparece el mapa y no
 La información, en conclusión, se estructura mediante las diferentes y principales ciudades de España y sus edificios, con el fin de ver una comparación entre ellas.
 
 Para terminar podemos decir que su URL es sencilla y corta. En ella encontramos que pertenece a la sección de especiales de el diario. También observamos que va separada por guiones: espana-vive-en-pisos. Le faltaría una optimización de seo: algo más descriptivo y que mostrase la fecha.
+ 
