@@ -1,7 +1,6 @@
 # Actividad dirigida 2
 
 ```
-```
 from bs4 import BeautifulSoup
 import requests
 #Datos sobre los Juegos Olímpicos en 2020
@@ -30,4 +29,5 @@ if(respuesta == 's'):
 
 else:
   print('Qué lástima, y...')
-  
+
+```
