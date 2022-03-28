@@ -1,5 +1,27 @@
 # Actividad dirigida 2
 
+En esta parte de la Actividad Dirigida 2 es donde vamos a poner el código en bruto completo para poder llegar a entender bien lo que hemos hecho en el notebook de 'Jupyter'. También es vital para poder contrastar con el otro ejercicio como es un código en bruto y como es editado con `Jupyter`: dos maneras muy diferentes de visualizar los datos
+
+## Librerías
+En este caso, lo primero que realizamos es importar la librería requests. Un paso vital e importante que nos permite obtener la página web a la que queremos hacer scrapping.
+
+Por otra parte, la librería beautiful soup es la que nos sirve para extraer información de contenido en formato HTML o XML. Es un paso vital para luego poder analizar la información.
+
+##Variables
+Es el momento en el que vamos a definir lo que queremos obtener. Para ello lo más importante es poner la URL de donde queremos sacar los datos ("https://resultados.elpais.com/deportivos/juegos-olimpicos/medallero/"). Es a esta misma URL a la que le haremos la peticion request.get, que nos va a servir para obtener los datos.
+
+También es importante darle la instrucción a la página de que si el estatus code no nos permite hacer scrapping, que nos informe mediante el código (req.status_code != 200).
+
+Es importante tambien que para que se pueda leer el HTML de la web es vital que pasemos los datos por `BeautifulSoup` que, como hemos explicado es la que nos permite extraer la información en formato HTML o XML
+
+##Datos
+Una de las cosas más importantes es tener claro cuales son las variables que queremos conseguir. En nuestro caso son los `oros`, `platas`, `bronces` y el `total de medallas` que tiene cada país que aparece en la tabla de los datos que queremos extraer. Por ello es importante identificarlas en el HTML de la URL y aplicar en el código la función `find_all()` para que las busque y las seleccione para, más tarde, mostrárnoslas.
+
+Esto se consigue mediante un bucle que mediante el código `print` imprimirá los datos/números que le hemos pedido y nos haga una buena visualización de datos rápida y cómoda.
+
+##Pregunta
+La pregunta es, más que nada, para conseguir que el usuario o la persona que utiliza nuestro código tenga cierto tipo de interacción. En este caso se pregunta `¿Quieres conocer los 20 países que han obtenido más medallas en 2020?`. Entonces si la persona teclea `s` significará que es un sí y procederá a seguir con el scrapping. Si el usuario no pulsa esa letra, no continuará.
+
 ```
 from bs4 import BeautifulSoup
 import requests
