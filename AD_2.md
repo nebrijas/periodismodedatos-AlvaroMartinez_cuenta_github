@@ -22,6 +22,7 @@ Esto se consigue mediante un bucle que mediante el código `print` imprimirá lo
 ## Pregunta
 La pregunta es, más que nada, para conseguir que el usuario o la persona que utiliza nuestro código tenga cierto tipo de interacción. En este caso se pregunta `¿Quieres conocer los 20 países que han obtenido más medallas en 2020?`. Entonces si la persona teclea `s` significará que es un sí y procederá a seguir con el scrapping. Si el usuario no pulsa esa letra, no continuará.
 
+## Código en bruto
 ```
 from bs4 import BeautifulSoup
 import requests
