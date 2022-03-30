@@ -1,6 +1,8 @@
 # Actividad dirigida 2
 
-En esta parte de la Actividad Dirigida 2 es donde vamos a poner el **código en bruto completo** para poder llegar a entender bien lo que hemos hecho en el notebook de 'Jupyter'. También es vital para poder contrastar con el otro ejercicio como es un código en bruto y como es editado con `Jupyter`: dos maneras muy diferentes de visualizar los datos
+En esta parte de la Actividad Dirigida 2 es donde vamos a poner el **código en bruto completo** para poder llegar a entender bien lo que hemos hecho en el notebook de 'Jupyter', y que corresponde a la Actividad Dirigida 2, en el repositorio llamada [Ad2_Juypter_Scrapping](https://github.com/nebrijas/periodismodedatos-AlvaroMartinez_cuenta_github/blob/main/AD2_Jupyter_Scrapping.ipynb). También es vital para poder contrastar con el otro ejercicio como es un código en bruto y como es editado con `Jupyter`: dos maneras muy diferentes de visualizar los datos
+
+(https://especiales.eldiario.es/espana-vive-en-pisos/)
 
 ## Librerías
 En este caso, lo primero que realizamos es **importar la librería requests**. Un paso vital e importante que nos permite obtener la página web a la que queremos hacer scrapping.
