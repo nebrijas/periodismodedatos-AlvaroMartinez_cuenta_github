@@ -8,4 +8,6 @@ Esta es la [Actividad Dirigida 1](AD_1.md)
 
 Esta es la [Actividad Dirigida 2](AD_2.md)
 
-Esta es la [Actividad Dirigida 3](AD3_api-covid-19-pandas.md)
+Esta es la [Actividad Dirigida 3](/AD3/AD3_api-covid-19-pandas.md)
+
+Esta es la [Actividad Dirigida 4](
