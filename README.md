@@ -13,3 +13,5 @@ Aquí podrás encontrar todas las Actividades Dirigidas y todos los ejercicios d
 - Esta es la [Actividad Dirigida 4](AD4-api-pandas-folium.md)
 
 - Aquí puedes encontrar el código en bruto de la [Actividad Dirigida 4](Ad4-api-pandas-2.md)
+
+- Si por otro casual quieres ver el mapa  realizado en la Actividad Dirigida 4, lo puedes ver [aquí](tipo.html)
