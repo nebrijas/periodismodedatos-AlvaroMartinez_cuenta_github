@@ -4,4 +4,4 @@ Bienvenido al repositorio de la asignatura Periodismo de Datos II de la Universi
 
 Aquí podrás encontrar todas las Actividades Dirigidas y todos los ejercicios de clase de la asignatura, en el que vamos a usar principalmente el lenguaje Markdown.
 
-Esta es la [AD1](https://github.com/nebrijas/periodismodedatos-alvaro-martinez/blob/main/AD_1.md)
+Esta es la [AD1](AD_1.md)
