@@ -4,11 +4,12 @@ Bienvenido al repositorio de la asignatura Periodismo de Datos II de la Universi
 
 Aquí podrás encontrar todas las Actividades Dirigidas y todos los ejercicios de clase de la asignatura, en el que vamos a usar principalmente el lenguaje Markdown.
 
-Esta es la [Actividad Dirigida 1](AD_1.md)
+- Esta es la [Actividad Dirigida 1](AD_1.md)
 
-Esta es la [Actividad Dirigida 2](AD_2.md)
+- Esta es la [Actividad Dirigida 2](AD_2.md)
 
-Esta es la [Actividad Dirigida 3](AD3/AD3_api-covid-19-pandas.md)
+- Esta es la [Actividad Dirigida 3](AD3/AD3_api-covid-19-pandas.md)
 
-Esta es la [Actividad Dirigida 4](AD4-api-pandas-folium.md)
-Aquí puedes encontrar el código en bruto de la [Actividad Dirigida 4](Ad4-api-pandas-2.md)
+- Esta es la [Actividad Dirigida 4](AD4-api-pandas-folium.md)
+
+- Aquí puedes encontrar el código en bruto de la [Actividad Dirigida 4](Ad4-api-pandas-2.md)
