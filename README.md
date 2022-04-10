@@ -4,7 +4,7 @@ Bienvenido al repositorio de la asignatura Periodismo de Datos II de la Universi
 
 Aquí podrás encontrar todas las Actividades Dirigidas y todos los ejercicios de clase de la asignatura, en el que vamos a usar principalmente el lenguaje Markdown.
 
-- Esta es la [Actividad Dirigida 1](AD_1.md), en la que analizamos una visualización de datos. Este trabajo está enfocado al análisis de una serie de mapas de El Diario(https://especiales.eldiario.es/espana-vive-en-pisos/) llamados "España vive en pisos: por qué hemos construido nuestras ciudades en vertical".
+- Esta es la [Actividad Dirigida 1](AD_1.md), en la que analizamos una visualización de datos. Este trabajo está enfocado al análisis de una serie de mapas [El Diario](https://especiales.eldiario.es/espana-vive-en-pisos/) llamados "España vive en pisos: por qué hemos construido nuestras ciudades en vertical".
 
 - Esta es la [Actividad Dirigida 2 en formato Mardkown](AD_2.md), en la que intentamos comprender mejor cómo funciona el lenguaje Phyton y, más concretamente, el web scrapping. 
 
